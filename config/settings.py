@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Local apps
     'taggit.apps.TaggitConfig',
+    'tests.apps.TestsConfig',
     # Third party apps
 ]
 
